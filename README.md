@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Mykael José</h1>
-<h3 align="center">um estudante e criador de jogos indie da Brasil</h3>
+<h3 align="center">um estudante e criador de jogos indie do Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhaedryn&label=Profile%20views&color=0e75b6&style=flat" alt="zhaedryn" /> </p>
 
